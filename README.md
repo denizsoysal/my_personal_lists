@@ -71,7 +71,7 @@ Maybe the most impactful for me. Cfr trying to do *rasengan* in the playground ^
 
 ## High school dxd
 
-<img src="images\high_school_dxd.jpg" alt="drawing" width="150"/>
+<img src="images\high_School_dxd.jpg" alt="drawing" width="150"/>
 
 ## High school of the dead
 
