@@ -60,22 +60,13 @@ Maybe the most impactful for me. Cfr trying to do *rasengan* in the playground ^
 ## Hxh
 
 <img src="images\hxh.jpg" alt="drawing" width="150"/>
+Thanks Baks for getting me into this
 
 ## Vinland saga
 
 <img src="images\vinland.jpg" alt="drawing" width="150"/>
+Thanks again Baks for getting me into this
 
-## Prison school
-
-<img src="images\prison_school.jpg" alt="drawing" width="150"/>
-
-## High school dxd
-
-<img src="images\high_School_dxd.jpg" alt="drawing" width="150"/>
-
-## High school of the dead
-
-<img src="images\high_school_of_the_death.jpg" alt="drawing" width="150"/>
 
 ## Samurai champloo
 
@@ -122,6 +113,18 @@ Maybe the most impactful for me. Cfr trying to do *rasengan* in the playground ^
 
 <img src="images\fma.jpg" alt="drawing" width="150"/>
 
+## Prison school
+
+<img src="images\prison_school.jpg" alt="drawing" width="150"/>
+
+## High school dxd
+
+<img src="images\high_School_dxd.jpg" alt="drawing" width="150"/>
+
+## High school of the dead
+
+<img src="images\high_school_of_the_death.jpg" alt="drawing" width="150"/>
+
 ## Hajime no Ippo
 
 <img src="images\hajime.jpg" alt="drawing" width="150"/>
@@ -167,8 +170,10 @@ Maybe the most impactful for me. Cfr trying to do *rasengan* in the playground ^
 
 <img src="images\death_note.jpg" alt="drawing" width="150"/>
 
+## One Piece 
 
-
+<img src="images\one_piece.jpg" alt="drawing" width="150"/>
+Even though I watched only a few episodes when I was younger, I had to put it on the list for my bro Zaki ;)
 
 
 # Games list
