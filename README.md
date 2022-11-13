@@ -158,6 +158,16 @@ Maybe the most impactful for me. Cfr trying to do *rasengan* in the playground ^
 
 <img src="images\dbs.jpg" alt="drawing" width="150"/>
 
+## Nanatsu no Taizai
+
+<img src="images\nanatsu.jpg" alt="drawing" width="150"/>
+
+
+## Death Note 
+
+<img src="images\death_note.jpg" alt="drawing" width="150"/>
+
+
 
 
 
