@@ -133,6 +133,8 @@ Thanks again Baks for getting me into this
 
 <img src="images\snk.jpg" alt="drawing" width="150"/>
 
+Still trying to recover from how amazing the last episode was.
+
 ## Kuroko No Basket
 
 <img src="images\kuroko.jpg" alt="drawing" width="150"/>
@@ -175,6 +177,9 @@ Thanks again Baks for getting me into this
 <img src="images\one_piece.jpg" alt="drawing" width="150"/>
 Even though I watched only a few episodes when I was younger, I had to put it on the list for my bro Zaki ;)
 
+## Berserk
+
+## Chainsaw man
 
 # Games list
 
